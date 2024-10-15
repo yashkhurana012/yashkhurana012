@@ -1,6 +1,6 @@
 ![logo](https://github.com/yashkhurana012/yashkhurana012/blob/main/Profile_Banner.png)
 ## Hi I'm YASH KHURANA 👋
-<h1 align="left">Hi 👋, I'm Yash Khurana</h1>
+
 <h3 align="left">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **yashkhurana012@gmail.com**
